@@ -187,7 +187,6 @@ The project generates 4 charts automatically:
 ## 👨‍💻 Author
 
 Karthikeyan C
-
 Cyber Security Engineering Student  
 Subject: Machine Learning Techniques  
 
