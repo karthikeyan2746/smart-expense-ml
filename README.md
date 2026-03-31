@@ -186,8 +186,8 @@ The project generates 4 charts automatically:
 
 ## 👨‍💻 Author
 
-**[Your Name]**  
-2nd Year Engineering Student  
+Karthikeyan C
+Cyber Security Engineering Student  
 Subject: Machine Learning Techniques  
 
 ---
