@@ -1,0 +1,81 @@
+date,description,amount,payment_method,category
+2024-01-02,Grocery shopping at DMart,1850.00,UPI,Food
+2024-01-03,Uber ride to college,220.50,UPI,Transport
+2024-01-05,Netflix subscription,649.00,Credit Card,Entertainment
+2024-01-07,Medical checkup at clinic,500.00,Cash,Healthcare
+2024-01-08,Electricity bill payment,1200.00,Net Banking,Utilities
+2024-01-10,Pizza Hut dinner with friends,780.00,UPI,Food
+2024-01-11,Bus pass monthly recharge,600.00,UPI,Transport
+2024-01-12,New textbooks for semester,1450.00,Credit Card,Education
+2024-01-14,Grocery store vegetables,430.00,Cash,Food
+2024-01-15,Jio recharge monthly,299.00,UPI,Utilities
+2024-01-17,Movie tickets PVR,520.00,UPI,Entertainment
+2024-01-18,Auto rickshaw fare,80.00,Cash,Transport
+2024-01-19,Pharmacy medicines,360.00,Cash,Healthcare
+2024-01-20,Online course Udemy,1199.00,Credit Card,Education
+2024-01-21,Swiggy food order,350.00,UPI,Food
+2024-01-22,Water bill payment,180.00,Net Banking,Utilities
+2024-01-23,Spotify premium,119.00,Credit Card,Entertainment
+2024-01-25,Vegetable market shopping,260.00,Cash,Food
+2024-01-26,Ola cab airport drop,850.00,UPI,Transport
+2024-01-27,Doctor consultation fee,700.00,Cash,Healthcare
+2024-01-28,Bakery snacks,145.00,Cash,Food
+2024-01-29,College fest registration,500.00,UPI,Education
+2024-02-01,Grocery weekly shopping,1620.00,UPI,Food
+2024-02-02,Amazon Prime renewal,1499.00,Credit Card,Entertainment
+2024-02-03,Metro card recharge,400.00,UPI,Transport
+2024-02-05,Gas cylinder booking,950.00,Net Banking,Utilities
+2024-02-06,Eye checkup and glasses,2200.00,Credit Card,Healthcare
+2024-02-07,Zomato dinner order,460.00,UPI,Food
+2024-02-08,Petrol fill for bike,320.00,Cash,Transport
+2024-02-09,Stationery for college,380.00,Cash,Education
+2024-02-10,Local vegetable shopping,220.00,Cash,Food
+2024-02-12,YouTube Premium,189.00,Credit Card,Entertainment
+2024-02-13,Blood test lab,450.00,Cash,Healthcare
+2024-02-15,Grocery and dairy,980.00,UPI,Food
+2024-02-16,Auto fare daily,60.00,Cash,Transport
+2024-02-18,Internet broadband bill,799.00,Net Banking,Utilities
+2024-02-19,College exam fee,800.00,Net Banking,Education
+2024-02-20,Restaurant lunch,540.00,UPI,Food
+2024-02-21,Bus ticket outstation,350.00,Cash,Transport
+2024-02-22,Dental checkup,900.00,Cash,Healthcare
+2024-02-24,Hot star subscription,299.00,Credit Card,Entertainment
+2024-02-25,Supermarket monthly stock,2100.00,UPI,Food
+2024-02-26,Rapido bike ride,55.00,UPI,Transport
+2024-02-27,NPTEL course enrollment,1000.00,Net Banking,Education
+2024-02-28,Mobile recharge prepaid,349.00,UPI,Utilities
+2024-03-01,Fruits and vegetables,310.00,Cash,Food
+2024-03-02,Train ticket booking,480.00,UPI,Transport
+2024-03-03,Disney Hotstar premium,499.00,Credit Card,Entertainment
+2024-03-04,Vitamin supplements,650.00,Cash,Healthcare
+2024-03-05,DTH recharge tata sky,399.00,Net Banking,Utilities
+2024-03-06,Grocery rice and pulses,780.00,UPI,Food
+2024-03-07,Auto to railway station,120.00,Cash,Transport
+2024-03-08,Coursera monthly plan,2500.00,Credit Card,Education
+2024-03-09,Canteen lunch college,95.00,Cash,Food
+2024-03-10,City bus daily pass,30.00,Cash,Transport
+2024-03-11,Electricity partial bill,600.00,Net Banking,Utilities
+2024-03-12,Hospital pharmacy,275.00,Cash,Healthcare
+2024-03-13,Biryani takeaway,320.00,UPI,Food
+2024-03-14,Rickshaw to bus stop,50.00,Cash,Transport
+2024-03-16,Amazon prime video,179.00,Credit Card,Entertainment
+2024-03-17,Medical prescription,420.00,Cash,Healthcare
+2024-03-18,Weekly vegetables,190.00,Cash,Food
+2024-03-19,Cab to airport,1100.00,UPI,Transport
+2024-03-20,College library fine,50.00,Cash,Education
+2024-03-21,Milk and dairy monthly,560.00,UPI,Food
+2024-03-22,KSRTC bus pass,500.00,Cash,Transport
+2024-03-23,Water purifier service,800.00,Net Banking,Utilities
+2024-03-24,Pathology lab test,380.00,Cash,Healthcare
+2024-03-25,Ice cream parlour,140.00,Cash,Food
+2024-03-26,Rapido ride to college,45.00,UPI,Transport
+2024-03-27,Skill India course fee,1200.00,Net Banking,Education
+2024-03-28,LPG gas refill,950.00,UPI,Utilities
+2024-03-29,Dominos pizza order,520.00,UPI,Food
+2024-03-30,InDriver cab ride,280.00,UPI,Transport
+2024-03-31,ZEE5 subscription,99.00,Credit Card,Entertainment
+2024-04-01,Monthly grocery big bazaar,1750.00,UPI,Food
+2024-04-02,College bus fee monthly,650.00,Cash,Transport
+2024-04-03,Gym membership monthly,999.00,Credit Card,Healthcare
+2024-04-04,Coding bootcamp fee,3500.00,Net Banking,Education
+2024-04-05,Cooking gas booking,900.00,Net Banking,Utilities
